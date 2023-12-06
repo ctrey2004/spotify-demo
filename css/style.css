@@ -11,7 +11,7 @@ body{
 
 /* Make Spotify Songs Look More Round */
 iframe {
-  border-radius: 30px;
+  --border-radius: 30px;
 }
 
 /* Make the Spotify Results Fall Into the Same Row */
